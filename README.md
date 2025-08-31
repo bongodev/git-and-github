@@ -1,4 +1,5 @@
 # git-and-github
+
 A quick brown fox jumps over the lazy dog
 
 Hello I am Emu
@@ -13,8 +14,7 @@ Hello I am Nasib
 
 Hello I am Farhan
 
-Hello I am Md. Mahbub Uddin Mithu
-I'm from Dhaka
+Hello I am Md. Mahbub Uddin Mithu I'm from Dhaka
 
 Hello This is Dipak Roy here
 
@@ -22,15 +22,14 @@ Hello I am Mohammad Kamrul Islam
 
 Hello this is Niloy here
 
-Assalamu Alaikum,
-This is,
-Abdullah Nazmus-Sakib
-From JU, CSE.
+Assalamu Alaikum, This is, Abdullah Nazmus-Sakib From JU, CSE.
 
 This is Fabiha
 
-This is Musfiq
-Im from Bogra.
+This is Musfiq Im from Bogra.
 
-This Is Shakil Hussain
-I'm from Dhaka.
+This Is Shakil Hussain I'm from Dhaka.
+
+This is Tirtha
+
+I'm from Dhaka
