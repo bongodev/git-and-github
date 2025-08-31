@@ -29,8 +29,7 @@ From JU, CSE.
 
 This is Fabiha
 
-This is Musfiq
-Im from Bogra.
+Hi,I'm Musfiq from Bogra.
 
 This Is Shakil Hussain
 I'm from Dhaka.
