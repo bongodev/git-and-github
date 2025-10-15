@@ -92,8 +92,14 @@ From Mirpur
 This is Hafiz
 From Dhaka.
 
+This is Rakib
+from dhaka, bangladesh.
+
 This Is Shakil Hussain
 I'm from Dhaka.
+
+This is Kazi Nazmus Sakib
+I am from Barisal.
 
 This is Shanjid.
 I am from Dhaka
