@@ -11,6 +11,8 @@ Hello from Re-Fat
 
 Hello I am Nasib
 
+hello i am audity
+
 Hello I am Farhan
 
 Hello I am Md. Mahbub Uddin Mithu
@@ -34,3 +36,15 @@ Im from Bogra.
 
 This is Hafiz
 From Dhaka.
+
+This Is Shakil Hussain
+I'm from Dhaka.
+
+This is Kazi Nazmus Sakib
+I am from Barisal.
+
+This is Mir Fahim
+I'm a little late to the party...
+
+Hello I am Mashiyat
+
