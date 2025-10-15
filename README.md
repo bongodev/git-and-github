@@ -134,6 +134,8 @@ Hi, I am CK Mahanta! im from Rangpur💡
 This is Kazi Nazmus Sakib
 I am from Barisal.
 
+This is Parisa Reza from Dhaka.
+
 This FAzle  Rabbi.
 I am From Borguna.
 
