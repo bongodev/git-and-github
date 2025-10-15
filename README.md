@@ -95,6 +95,9 @@ From Dhaka.
 This Is Shakil Hussain
 I'm from Dhaka.
 
+This is Shanjid.
+I am from Dhaka
+
 This is Mohammad Abdul Kader from Dhaka.
 
 This is Khatibur Rahman
