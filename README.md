@@ -11,6 +11,10 @@ Hello from Re-Fat
 
 Hello I am Nasib
 
+Hello from Fouzia Afrin Jui
+
+hello i am audity
+
 Hello I am Farhan
 
 Hello I am Md. Mahbub Uddin Mithu
@@ -32,6 +36,9 @@ This is Fabiha
 This is Musfiq
 Im from Bogra.
 
+This is Hafiz
+From Dhaka.
+
 This Is Shakil Hussain
 I'm from Dhaka.
 
@@ -41,3 +48,10 @@ I am from Barisal.
 
 This FAzle  Rabbi.
 I am From Borguna.
+
+This is Mir Fahim
+I'm a little late to the party...
+
+Hello I am Mashiyat
+
+
