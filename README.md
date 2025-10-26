@@ -14,7 +14,7 @@ Hello I am Nasib
 
 Hello I am Raisa
 
-Hello kabir i am here 
+Hello kabir i am here
 
 Hello from Fouzia Afrin Jui
 
@@ -119,20 +119,20 @@ I am from Dhaka
 This is Adrita Rahman
 I'm from Dhaka
 
-Hello, I'm Nasif Rayhan 
-I'm from Khulna 
+Hello, I'm Nasif Rayhan
+I'm from Khulna
 My github username is (nasifrayhan)
 I'm here for learn
 
 I'm from Khulna.
 
-This is khaled saifullah 
+This is khaled saifullah
 i'm from AIUB,CSE
 
-Hi this is me Saikat 
+Hi this is me Saikat
 I'm from CHittagong
 
-Hola ! Me Tanveer from Pabna 
+Hola ! Me Tanveer from Pabna
 
 BIPRO FROM MIRPUR
 
@@ -151,7 +151,7 @@ I'm from Dhaka
 
 This is Parisa Reza from Dhaka.
 
-This FAzle  Rabbi.
+This FAzle Rabbi.
 I am From Borguna.
 
 This is Mir Fahim
@@ -163,3 +163,4 @@ Hello I am Mashiyat
 
 Hey This is Dipak Roy. I am From Dhaka Bangladesh
 
+I'm Saquib from Chattogram.
