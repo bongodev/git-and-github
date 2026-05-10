@@ -174,5 +174,8 @@ your guidance.
 
 Hi, I am Aqib from Dhaka.
 
-Hi, I am Shahmidul from Dhaka
+Hi, I am Shahmidul from Dhaka.
+
 Hi, This is hannan from Bangladesh !
+
+Salam, I am Kamrul Hasan, I am from Dhaka.
