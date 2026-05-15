@@ -176,8 +176,10 @@ Hi, I am Aqib from Dhaka.
 
 Hi, I am Shahmidul from Dhaka
 
-Hi, This is hannan from Bangladesh !
 
+Hello , I'm Abdullah Zubayer Talukder  from Mymensing Enginnering College, CSE Dept.
+
+Hi, This is hannan from Bangladesh !
 
 Hi, I am Sourov from Dhaka
 
@@ -187,3 +189,7 @@ Hello, I'm Tahshin Sharon From Mirpur,Dhaka
 
 
 Hello, This is Rakib Hossain from Gazipur.
+
+Assalamu Alikum, I am Mohamamd Nafiz Enam, I am from Dhaka, Bangladesh
+
+Hi, This is Ali
