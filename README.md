@@ -235,6 +235,8 @@ Hello there, This is Mahedi Hasan from Dhaka!
 
 Hello everyone! This is TonmoyA from NYC. 
 
+Hello, Kadir from Dhaka
+
 Assalamualaikum, I am Miraz and I'm from Cumilla
 
 Hello, I'm Md Jahid Hasan From Dhaka
