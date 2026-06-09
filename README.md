@@ -14,7 +14,7 @@ Hello I am Nasib
 
 Hello I am Raisa
 
-Hello kabir i am here 
+Hello kabir i am here
 
 Hello from Fouzia Afrin Jui
 
@@ -119,20 +119,20 @@ I am from Dhaka
 This is Adrita Rahman
 I'm from Dhaka
 
-Hello, I'm Nasif Rayhan 
-I'm from Khulna 
+Hello, I'm Nasif Rayhan
+I'm from Khulna
 My github username is (nasifrayhan)
 I'm here for learn
 
 I'm from Khulna.
 
-This is khaled saifullah 
+This is khaled saifullah
 i'm from AIUB,CSE
 
-Hi this is me Saikat 
+Hi this is me Saikat
 I'm from CHittagong
 
-Hola ! Me Tanveer from Pabna 
+Hola ! Me Tanveer from Pabna
 
 BIPRO FROM MIRPUR
 
@@ -151,7 +151,7 @@ I'm from Dhaka
 
 This is Parisa Reza from Dhaka.
 
-This FAzle  Rabbi.
+This FAzle Rabbi.
 I am From Borguna.
 
 This is Mir Fahim
@@ -169,7 +169,7 @@ Hello My name is Alavi, i live in Dhaka.
 
 My name is Shajib. I am from Dhaka.
 
-Hi, I'm Tachikul Islam. I want to develop my skills under 
+Hi, I'm Tachikul Islam. I want to develop my skills under
 your guidance.
 
 Hi, I am Aqib from Dhaka.
@@ -177,3 +177,70 @@ Hi, I am Aqib from Dhaka.
 Hi, I am Shahmidul from Dhaka
 
 Hello, I am Pervej From Dhaka Bangladesh
+
+I am Yaqub from Dhaka.
+
+Hi, This is hannan from Bangladesh !
+
+Hi, I am Himu, I am from Chattogram.
+
+Hello , I'm Abdullah Zubayer Talukder  from Mymensing Enginnering College, CSE Dept.
+
+Hi, This is hannan from Bangladesh !
+
+Hi, I am Sourov from Dhaka
+
+Hi there, I'm Shakib from Chattogram.
+
+Hello, I'm Tahshin Sharon From Mirpur,Dhaka
+
+Hello, I'm Shahabuddin Talukder From Agargaon, Taltala, Dhaka-1207.
+
+Assalamualimuk, This is AB Rhaim from Dhaka
+
+Assalamalaikum, I'm Jahid Hassan Khan from Rajshshi
+
+Hi! This is Prodip Gour from Dhaka. 
+
+Hola, This is Tuhin , Live in Dhka but originally from chittagong.
+
+Hello, I'm Md Hasibul Islam Shanto from Rangpur
+
+Hello, I am Ripas Sorker Rifat, I am from Panchagarh.
+
+Hi, I am Afak from Wari, Dhaka
+
+Hello, My name is Md. Nuruzaman Milon. I am from Uttara, Dhaka.
+
+Hi there, I am Najmus Sakib, I am from Dhaka.
+Hi, This is Ali
+
+Hi, I am Tanzid. I am from Dhaka.
+
+Hi, I am Zisan Hasan Akash from Mirpur, Dhaka 
+
+Hello, I'm Sumona Salma from Dhaka.
+
+
+Hello, This is Rakib Hossain from Gazipur.
+
+
+Hello, I'm Mahabub Ahmed, from DE.
+
+Assalamuwalaikum, I'm S. M. Redwan. I'm from Dhaka.
+
+Hello, I am Sefa from United International University
+- Nazmul Haque | Hof, Germany
+
+
+Hello there, This is Mahedi Hasan from Dhaka!
+
+Hello everyone! This is TonmoyA from NYC. 
+
+Assalamualaikum, I am Miraz and I'm from Cumilla
+
+Hello, I'm Md Jahid Hasan From Dhaka
+
+Assalamo Alaikum, I am Kaikobad from Narsingdi
+
+Assalam, I am Arafat. I am from Dhaka
