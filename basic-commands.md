@@ -1,10 +1,18 @@
 ## Configuration
+### For global setup
 
 ```
 ## this will effect all folders in you machine
 git config --global user.email <github email>`
 
 git config --global user.name <github username>
+```
+
+### For local setup
+```
+git config --local user.email <github email>
+
+git config --local user.name <github username>
 ```
 
 ## Review workflow by fetching the branch locally
