@@ -182,7 +182,7 @@ Hi, This is hannan from Bangladesh !
 
 Hi, I am Himu, I am from Chattogram.
 
-Hello , I'm Abdullah Zubayer Talukder from Mymensing Enginnering College, CSE Dept.
+Hello , I'm Abdullah Zubayer Talukder  from Mymensing Enginnering College, CSE Dept.
 
 Hi, This is hannan from Bangladesh !
 
@@ -198,7 +198,7 @@ Assalamualimuk, This is AB Rhaim from Dhaka
 
 Assalamalaikum, I'm Jahid Hassan Khan from Rajshshi
 
-Hi! This is Prodip Gour from Dhaka.
+Hi! This is Prodip Gour from Dhaka. 
 
 Hola, This is Tuhin , Live in Dhka but originally from chittagong.
 
@@ -215,23 +215,25 @@ Hi, This is Ali
 
 Hi, I am Tanzid. I am from Dhaka.
 
-Hi, I am Zisan Hasan Akash from Mirpur, Dhaka
+Hi, I am Zisan Hasan Akash from Mirpur, Dhaka 
 
 Hello, I'm Sumona Salma from Dhaka.
 
+
 Hello, This is Rakib Hossain from Gazipur.
+
 
 Hello, I'm Mahabub Ahmed, from DE.
 
 Assalamuwalaikum, I'm S. M. Redwan. I'm from Dhaka.
 
 Hello, I am Sefa from United International University
-
 - Nazmul Haque | Hof, Germany
+
 
 Hello there, This is Mahedi Hasan from Dhaka!
 
-Hello everyone! This is TonmoyA from NYC.
+Hello everyone! This is TonmoyA from NYC. 
 
 Assalamualaikum, I am Miraz and I'm from Cumilla
 
@@ -247,4 +249,4 @@ I am Zubayer From Gazipur
 
 I am Tanjim Ahmed from Mohammadpur
 
-I am Asif From Dhaka
+Hello, I.m Roman from Dhaka
