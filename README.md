@@ -247,4 +247,8 @@ I am Nusaiba, from Rajshahi.
 
 I am Zubayer From Gazipur
 
+<<<<<<< HEAD
 I am Tanjim Ahmed from Mohammadpur
+=======
+I am Farhaz from MI
+>>>>>>> c28ae0f (Modified by Farhaz)
