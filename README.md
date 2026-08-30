@@ -249,6 +249,6 @@ I am Zubayer From Gazipur
 
 I am Tanjim Ahmed from Mohammadpur
 
-Hello, I.m Roman from Dhaka$
+Hello, I.m Roman from Dhaka
 
-Hello, I am Saifur from Bongo dev.o
+Hello, I am Saifur from Bongo dev.
