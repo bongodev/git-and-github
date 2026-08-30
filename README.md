@@ -260,3 +260,6 @@ Hello I am Bassma
 Hello, I am Saifur from Bongo dev.
 
 Hi, I'm Shanjid Ahmad from Moulvibazar Bangladesh.
+
+Hello, this is Iftekhar Ahmed Eather from Japan. Nice to meet with you. 
+Happy Learning!
