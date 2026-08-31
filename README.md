@@ -266,3 +266,5 @@ Hi, I'm Shanjid Ahmad from Moulvibazar Bangladesh.
 Hi, I'm Tahmid.
 
 Assalamu-alaikum, I am YEADUL from Dhaka
+
+I am MD Khalid Hosain, based in Mirpur, Dhaka
