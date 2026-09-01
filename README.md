@@ -2,6 +2,8 @@
 
 A quick brown fox jumps over the lazy dog
 
+Hello I am Mubin
+
 Hello I am Emu
 
 hello there I am Sabrina
@@ -263,3 +265,8 @@ Hi, I'm Shanjid Ahmad from Moulvibazar Bangladesh.
 
 Hello, this is Iftekhar Ahmed Eather from Japan. Nice to meet with you. 
 Happy Learning!
+Hi, I'm Tahmid.
+
+Assalamu-alaikum, I am YEADUL from Dhaka
+
+I am MD Khalid Hosain, based in Mirpur, Dhaka
