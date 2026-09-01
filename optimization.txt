@@ -1,1 +1,2 @@
 no optimization from master
+Conflict test from branch
