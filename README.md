@@ -2,6 +2,10 @@
 
 A quick brown fox jumps over the lazy dog
 
+```
+Hlw Sir, This Md. Moinul Islam. Learning DevOps from BongoDev. One of the best platform to learn DevOps right now in Bangladesh. Hopefully my journey will enjoyable.
+```
+
 Hello I am Mubin
 
 Hello I am Emu
