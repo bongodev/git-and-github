@@ -10,6 +10,7 @@ git config --global user.name <github username>
 
 ### For local setup
 ```
+
 git config --local user.email <github email>
 
 git config --local user.name <github username>
@@ -33,5 +34,6 @@ git push <remote> <branch>
 ### Add the remote of the PR
 `git remote add <remote_name> <remote_url>`
 
+ 
 `git fetch <remote_name>`
 
