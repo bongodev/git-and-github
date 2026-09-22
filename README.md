@@ -2,6 +2,12 @@
 
 A quick brown fox jumps over the lazy dog
 
+```
+Hlw Sir, This Md. Moinul Islam. Learning DevOps from BongoDev. One of the best platform to learn DevOps right now in Bangladesh. Hopefully my journey will enjoyable.
+```
+
+Hello, Mashuk here!
+
 Hello I am Mubin
 
 Hello I am Emu
@@ -303,4 +309,26 @@ Hi, I am RIjuanul.
 
 Hi! I am Jannatul Jerin from Dhaka.I am learning git and github.
 
+
 Look at me, I am PK to the new DevOps World. [by mushahedur]
+
+Hi I am Razibul from Bangladesh
+
+Hello, I am Firoz
+
+Hello! this is Mahmudul based on Dhaka, Bangladesh.
+
+Hello! I'm Debojoti Kumar Das Koushik from Dhaka, taking my first steps into DevOps.
+
+Hi I am Kamrul from USA
+
+Hello everyone, I am Dipto. Glad to be introduced with you all.
+
+Hello Everyone, This is Hasan from Canada. Nice to meet you all
+
+Hi I am Sahariar Islam from Dhaka.
+
+Hi, There! I'm Sajit Hossen Ferdous. I'm from Mymenshing.
+
+hi ! I am meherab from Dhaka.
+
