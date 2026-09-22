@@ -309,6 +309,9 @@ Hi, I am RIjuanul.
 
 Hi! I am Jannatul Jerin from Dhaka.I am learning git and github.
 
+
+Look at me, I am PK to the new DevOps World. [by mushahedur]
+
 Hi I am Razibul from Bangladesh
 
 Hello, I am Firoz
@@ -328,3 +331,4 @@ Hi I am Sahariar Islam from Dhaka.
 Hi, There! I'm Sajit Hossen Ferdous. I'm from Mymenshing.
 
 hi ! I am meherab from Dhaka.
+
